@@ -5,6 +5,7 @@ This app is for poker players to get an idea of how "good" a tournament is. If a
 
 There are 4 repos to the app, 2 front end and 2 back ends, each relating to each other. The first is for adding casinos to a DB
 Backend -> https://github.com/jbcastro/addcasino and frontend -> https://github.com/jbcastro/casino_front
+Quick Demo here https://add-casino-demo.herokuapp.com/
 
 The second is for adding tournaments for each casino which features the calculator
 Backend-> https://github.com/jbcastro/tourncalc and frontend -> https://github.com/jbcastro/tournament_calculator_react
