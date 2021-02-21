@@ -6,15 +6,13 @@ This app is for poker players to get an idea of how "good" a tournament is. If a
 ~~There are 4 repos to the app, 2 front end and 2 back ends, each relating to each other. The first is for adding casinos to a DB
 Backend -> https://github.com/jbcastro/addcasino and frontend -> https://github.com/jbcastro/casino_front~~
 
-I have merged the front end and backend for the casino adder here -> https://github.com/jbcastro/merge_casino That repo contains all the code for the but if you would like to see the progress check out the front end here-> https://github.com/jbcastro/casino_front and the backend here-> https://github.com/jbcastro/addcasino
+I have merged the front end and backend for the casino adder here -> https://github.com/jbcastro/merge_casino That repo contains all the code for the but if you would like to see the progress check out the frontend here-> https://github.com/jbcastro/casino_front and the backend here-> https://github.com/jbcastro/addcasino
 
 
 Quick Demo here https://add-casino-demo.herokuapp.com/
 
 
-The second is for adding tournaments for each casino which features the calculator
-
-Frontend -> https://github.com/jbcastro/tournament_calculator_react and backend-> https://github.com/jbcastro/tourncalc 
+The second is for adding tournaments for each casino which features the calculator. I have merged the frontend and backend into 1 repo here -> https://github.com/jbcastro/merge_tourn hat repo contains all the code for the but if you would like to see the progress check out the frontend here -> https://github.com/jbcastro/tournament_calculator_react and backend-> https://github.com/jbcastro/tourncalc 
 
 
 As of 12/12/20 the app is just being set up for people to enter casino and tournament data. Once more data is entered I plan on making a site to display everything from the database including grades for all tournaments, a way for user submitted tournaments at different casinos, and the standalone calculator. 
