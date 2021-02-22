@@ -14,6 +14,7 @@ Quick Demo here https://add-casino-demo.herokuapp.com/
 
 The second is for adding tournaments for each casino which features the calculator. I have merged the frontend and backend into 1 repo here -> https://github.com/jbcastro/merge_tourn hat repo contains all the code for the but if you would like to see the progress check out the frontend here -> https://github.com/jbcastro/tournament_calculator_react and backend-> https://github.com/jbcastro/tourncalc 
 
+Demo here https://add-tournament.herokuapp.com/ Demo is very rough and a lot needs to be added such as editing a tournament and presentation. 
 
 As of 12/12/20 the app is just being set up for people to enter casino and tournament data. Once more data is entered I plan on making a site to display everything from the database including grades for all tournaments, a way for user submitted tournaments at different casinos, and the standalone calculator. 
 
