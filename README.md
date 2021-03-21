@@ -12,7 +12,7 @@ I have merged the front end and backend for the casino adder here -> https://git
 Quick Demo here https://add-casino-demo.herokuapp.com/
 
 
-The second is for adding tournaments for each casino which features the calculator. I have merged the frontend and backend into 1 repo here -> https://github.com/jbcastro/merge_tourn hat repo contains all the code for the but if you would like to see the progress check out the frontend here -> https://github.com/jbcastro/tournament_calculator_react and backend-> https://github.com/jbcastro/tourncalc 
+The second is for adding tournaments for each casino which features the calculator. I have merged the frontend and backend into 1 repo here -> https://github.com/jbcastro/merge_tourn that repo contains all the code for the but if you would like to see the progress check out the frontend here -> https://github.com/jbcastro/tournament_calculator_react and backend-> https://github.com/jbcastro/tourncalc 
 
 Demo here https://add-tournament.herokuapp.com/ Demo is very rough and a lot needs to be added such as editing a tournament and presentation. 
 
